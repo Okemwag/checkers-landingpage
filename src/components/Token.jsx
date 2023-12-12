@@ -7,8 +7,8 @@ const Token = () => {
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
         <img className='w-[500px] mx-auto my-4' src={Coin} alt='/' />
         <div className='flex flex-col justify-center'>
-          <p className='text-[#00df9a] font-bold '>DATA ANALYTICS DASHBOARD</p>
-          <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Manage Data Analytics Centrally</h1>
+          <p className='text-[#00df9a] font-bold '>DIGITAL ASSET </p>
+          <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Manage Dao Token Centrally</h1>
           <p>
             Checkers, the cutting-edge digital token, offers a seamless and secure financial experience. With its advanced technology, Checkers ensures a hassle-free transaction process, providing users with unparalleled convenience and peace of mind. Embrace the future of digital finance with Checkers, where innovation meets reliability.
           </p>
